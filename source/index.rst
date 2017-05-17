@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   ../blogs/openstack_identity_oauth_api.rst
 
 Indices and tables
 ==================
